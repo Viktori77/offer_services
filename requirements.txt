@@ -1,6 +1,11 @@
-# SQLAlchemy
-# python-decouple
-# asyncpg
-# openai
-# aiogram
-# python-dotenv
+fastapi 
+uvicorn 
+SQLAlchemy
+python-decouple
+asyncpg
+psycopg2-binary
+aiogram
+python-dotenv
+APScheduler
+pydantic
+openpyxl
