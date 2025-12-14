@@ -1,0 +1,6 @@
+# SQLAlchemy
+# python-decouple
+# asyncpg
+# openai
+# aiogram
+# python-dotenv
