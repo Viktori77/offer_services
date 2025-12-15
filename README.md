@@ -23,7 +23,7 @@
 ## Технологии:
 
 - Язык программирования — **Python**
-- Фреймворк — **Fastapi **
+- Фреймворк — **Fastapi**
 - База — **PostgreSQL**
 - Telegram-бот — **aiogram**
 - Форматирование документов — **openpyxl**
@@ -70,6 +70,13 @@ URL_RECORDING=https://URL_RECORDING
 ```bash
 python -m venv .venv
 .venv\Scripts\activate
+```
+
+Для linux:
+
+```bash
+python3 -m venv venv
+source venv/bin/activate
 ```
 
 3. **Установите зависимости**:
@@ -134,4 +141,4 @@ openpyxl==3.1.5
 
 2. Следуйте инструкции по установке там.
 
-3. Добавьте нужный URL_RECORDING в файл `.env` здесь.
+3. Добавьте нужный URL_RECORDING в файл `.env` здесь и там.
